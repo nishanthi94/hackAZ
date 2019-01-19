@@ -17,5 +17,5 @@ p {
 }
 
 .id {
-  border: 1px black dashed;
+  border-style: 1px black dashed;
 }
