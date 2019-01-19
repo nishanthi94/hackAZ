@@ -3,6 +3,15 @@ img {
   height: 200px;
 }
 
+background {
+  color: LemonChiffon;
+}
+
 p {
   color: blue;
+  text-color: yellow;
+}
+
+#banner {
+  font-size: 50px;
 }
